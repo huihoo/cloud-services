@@ -171,4 +171,4 @@ OpenShift功能和优势：
 
 ![灰狐会员](http://wiki.huihoo.com/images/2/25/Zsxq.jpg)
 
-[灰狐的朋友们更多权益](https://wiki.huihoo.com/wiki/%E7%81%B0%E7%8B%90%E4%BC%9A%E5%91%98)
+[灰狐会员](https://wiki.huihoo.com/wiki/%E7%81%B0%E7%8B%90%E4%BC%9A%E5%91%98)

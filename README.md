@@ -5,6 +5,21 @@
 
 如果你对OpenStack很感兴趣，可参考[灰狐百科](https://wiki.huihoo.com/wiki/OpenStack)。
 
+### Go
+为什么把Go放在这里，从个人理解来看，Go是实现分布式、微服务、容器云的首选。
+
+除传统的Spring Cloud全家桶外，基于Go语言开发的微服务框架是首选，它们与以Docker & K8S为基础的容器云和CI/CD能更好的集成和融合，且带来更高的运营效率。
+
+从1970年至今，C语言是近50年来最成功的编程语言。而Go，是Next C!
+
+![c](https://wiki.huihoo.com/images/thumb/2/2a/C-top-programming-language.png/1279px-C-top-programming-language.png)
+
+Go，是互联网时代的C，是云语言。
+
+Google也发起了 [Go Cloud](https://github.com/google/go-cloud) 项目，Write once, run on any cloud。
+
+[Awesome Go](https://github.com/avelino/awesome-go) ![awesome](https://wiki.huihoo.com/images/1/13/Awesome.png)
+
 ### Mesos
 Apache Mesos 是一个分布式、集群管理系统和框架，被称为是分布式系统的内核。
 
@@ -54,6 +69,9 @@ Apple、Cisco、eBay、PayPal、Netflix、Twitter、Uber、Airbnb、豆瓣、微
 * Metrics 监控 [KairosDB](https://github.com/kairosdb/kairosdb)
 * 健康检查和告警 [ZMon](https://github.com/zalando/zmon)
 * 限流熔断和流聚合 [Hystrix](https://github.com/Netflix/Hystrix)/[Turbine](https://github.com/Netflix/Hystrix)
+
+### Istio
+[istio](https://github.com/huihoo/cloud-services/tree/master/istio)：第二代Servie Mesh产品
 
 ### Spring Cloud
 微服务架构集大成者，云计算最佳业务实践。

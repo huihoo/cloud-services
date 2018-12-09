@@ -139,6 +139,16 @@ OpenShift功能和优势：
 
 更多OpenShift细节可访问：[灰狐百科](https://wiki.huihoo.com/wiki/OpenShift)
 
+### AI on PaaS
+Kubernetes和TensorFlow已成为企业Cloud + AI的基础标配。如今，Kubernetes成为容器编排的事实标准，PaaS已成企业核心基础架构。TensorFlow就像人工智能领域的Amazon，越来越多的公司陆续加入TensorFlow生态系统，将自己的AI业务押注在TF之上。K8S和TF将重现Android辉煌。
+
+![tf-k8s](https://wiki.huihoo.com/images/3/30/Tensorflow-on-kubernetes.png)
+
+Tensorflow on Kubernetes: [kubeflow](https://github.com/kubeflow/kubeflow)
+
+<img src="https://www.kubeflow.org/images/logo.svg" width="100"> 
+
+Machine Learning Toolkit for Kubernetes 
 
 ### 文档
 * [Mesos，数据中心操作系统的核心](http://docs.huihoo.com/apache/mesos/mesos-the-heart-of-the-data-center-operating-system.pdf)

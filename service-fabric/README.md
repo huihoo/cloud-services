@@ -31,7 +31,7 @@ Service Fabric 作为微服务平台旨在解决构建和运行服务方面的�
 * ASP.NET Core 是新的开源跨平台框架，用于构建现代基于云的连接 Internet 的应用程序，如 Web 应用、IoT 应用和移动后端。
 * Reliable Actor 框架在 Reliable Services 的基础上构建，是根据执行组件设计模式实现虚拟执行组件模式的应用程序框架。
 
-### 最佳实践
+### 最佳实践https://github.com/Microsoft/service-fabric
 
 ### 用户
 

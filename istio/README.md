@@ -37,6 +37,9 @@ Istio 的架构并不复杂，其核心组件只有四个。首先是名为 Envo
 ### 项目
 * [kiali](https://www.kiali.io/): Service mesh observability
 
+### 用户
+* [腾讯云Service Mesh生产实践及架构演进](https://mp.weixin.qq.com/s/luHuqcoG8fK3AgFWBrRJ2g)
+
 ### 文档
 
 ### 图集
